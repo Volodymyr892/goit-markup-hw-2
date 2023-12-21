@@ -34,7 +34,7 @@ ol,ul{
 
 .header-nav-logo {
     color: #2E2F42;
-    font-family: "Raleway" sans-serif;
+    font-family:"Raleway",sans-serif;
     font-size: 18px;
         font-weight: 700;
         line-height: 1.17;
@@ -49,15 +49,16 @@ ol,ul{
 .header-menu-item {}
 
 .heaader-menu-link {
-    color:  #2E2F42;
+    color: #2E2F42;
         font-size: 16px;
         font-weight: 500;
         line-height: 1.5;
-        letter-spacing: 0.02em;
+        letter-spacing: 0.04em;
+        cursor: pointer;
 }
 .heaader-menu-link:hover,
 .heaader-menu-link:focus{
-    color:#404BBF;
+    background-color: #404BBF
 }
 
 
