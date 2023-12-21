@@ -34,8 +34,7 @@ ol,ul{
 
 .header-nav-logo {
     color: #2E2F42;
-    
-    font-family: 'Raleway' sans-serif;
+    font-family: "Raleway" sans-serif;
     font-size: 18px;
         font-weight: 700;
         line-height: 1.17;
@@ -53,7 +52,7 @@ ol,ul{
     color:  #2E2F42;
         font-size: 16px;
         font-weight: 500;
-        line-height: 1.6;
+        line-height: 1.5;
         letter-spacing: 0.02em;
 }
 .heaader-menu-link:hover,
@@ -73,7 +72,7 @@ ol,ul{
 .heaader-addres-link {
     color:  #434455;
         font-size: 16px;
-        line-height: 1.6;
+        line-height: 1.5;
         letter-spacing: 0.02em;
 }
 .heaader-addres-link:hover,
@@ -208,7 +207,7 @@ ol,ul{
         font-size: 16px;
         font-weight: 400;
         line-height: 1.5;
-        letter-spacing: 0.02;
+        letter-spacing: 0.02em;
 }
 /*!------------------------------------------*/
 
@@ -223,7 +222,7 @@ ol,ul{
         font-size: 18px;
         font-style: normal;
         font-weight: 700;
-        line-height: 1.7;
+        line-height: 1.17;
         letter-spacing: 0.03em;
         text-transform: uppercase;
 }
@@ -233,5 +232,5 @@ ol,ul{
     color: #F4F4FD;
         font-size: 16px;
         line-height: 1.5;
-        letter-spacing: 0.02;
+        letter-spacing: 0.02em;
 }
