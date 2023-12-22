@@ -10,13 +10,6 @@ a{
 ol,ul{
     list-style: none;
 }
-.visually-hidden {
-    margin: -1px;
-    white-space: nowrap;
-    clip-path: inset(100%);
-    clip: rect(0 0 0 0);
-    overflow: hidden;
-}
 /*?--------------------------HEADER-----------------*/
 
 .header {}
