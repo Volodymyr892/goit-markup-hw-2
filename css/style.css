@@ -7,7 +7,7 @@ body{
 a{
     text-decoration: none; 
 }
-ol,ul{
+ol, ul {
     list-style: none;
 }
 
@@ -20,7 +20,7 @@ ol,ul{
 
 .header-nav-logo {
     color: #4d5ae5;
-    font-family:"Raleway",sans-serif;
+    font-family: "Raleway", sans-serif;
     font-size: 18px;
         font-weight: 700;
         line-height: 1.17;
@@ -44,8 +44,8 @@ ol,ul{
         letter-spacing: 0.02em;
 }
 .heaader-menu-link:hover,
-.heaader-menu-link:focus{
-    color: #404BBF
+.heaader-menu-link:focus {
+    color: #404BBF;
 }
 
 
@@ -64,7 +64,7 @@ ol,ul{
         letter-spacing: 0.02em;
 }
 .heaader-addres-link:hover,
-.heaader-addres-link:focus{
+.heaader-addres-link:focus {
     color:#404BBF;
 }
 
@@ -90,7 +90,7 @@ ol,ul{
     color: #ffffff;
     cursor: pointer;
     font-family: "Roboto", sans-serif;
-    font-size: 16px
+    font-size: 16px;
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.04em;
@@ -116,7 +116,7 @@ ol,ul{
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
-    letter-spacing: 0.02em
+    letter-spacing: 0.02em;
 }
 
 .features-item-text {
@@ -147,7 +147,8 @@ ol,ul{
 .taste-item {
     border-radius: 0px 0px 4px 4px;
     background: #FFF;
-    box-shadow: 0px 2px 1px 0px rgba(46, 47, 66, 0.08), 0px 1px 1px 0px rgba(46, 47, 66, 0.16), 0px 1px 6px 0px rgba(46, 47, 66, 0.08);}
+    box-shadow: 0px 2px 1px 0px rgba(46, 47, 66, 0.08), 0px 1px 1px 0px rgba(46, 47, 66, 0.16), 0px 1px 6px 0px rgba(46, 47, 66, 0.08);
+}
 
 .taste-img {}
 
@@ -222,7 +223,7 @@ ol,ul{
         text-transform: uppercase;
 }
 .footer-logo-part{
-    color: #f4f4fd
+    color: #f4f4fd;
 }
 
 .footer-text {
