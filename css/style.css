@@ -42,7 +42,6 @@ ol,ul{
         font-weight: 500;
         line-height: 1.5;
         letter-spacing: 0.02em;
-        cursor: pointer;
 }
 .heaader-menu-link:hover,
 .heaader-menu-link:focus{
