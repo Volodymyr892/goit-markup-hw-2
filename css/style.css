@@ -89,6 +89,8 @@ ol,ul{
     background-color: #4D5AE5;
     color: #ffffff;
     cursor: pointer;
+    font-family: "Roboto", sans-serif;
+    font-size: 16px
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.04em;
