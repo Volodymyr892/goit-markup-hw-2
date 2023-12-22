@@ -1,10 +1,10 @@
-body{
-    font-family: "Roboto",sans-serif;
+body {
+    font-family:"Roboto", sans-serif;
     color: #434455;
-    background-color: #ffff;
+    background-color:#ffff;
 
 }
-a{
+a {
     text-decoration: none; 
 }
 ol, ul {
@@ -19,17 +19,17 @@ ol, ul {
 .header-nav {}
 
 .header-nav-logo {
-    color: #4d5ae5;
-    font-family: "Raleway", sans-serif;
-    font-size: 18px;
-        font-weight: 700;
-        line-height: 1.17;
-        letter-spacing: 0.03em;
-        text-transform: uppercase;
+    color:#4d5ae5;
+    font-family:"Raleway", sans-serif;
+    font-size:18px;
+    font-weight:700;
+    line-height:1.17;
+    letter-spacing:0.03em;
+    text-transform:uppercase;
 }
 
 .header-logo-part{
-    color: #2e2f42;
+    color:#2e2f42;
 }
 
 .header-menu-list {}
@@ -37,20 +37,20 @@ ol, ul {
 .header-menu-item {}
 
 .heaader-menu-link {
-    color: #2E2F42;
-        font-size: 16px;
-        font-weight: 500;
-        line-height: 1.5;
-        letter-spacing: 0.02em;
+    color:#2E2F42;
+    font-size:16px;
+    font-weight:500;
+    line-height:1.5;
+    letter-spacing:0.02em;
 }
 .heaader-menu-link:hover,
 .heaader-menu-link:focus {
-    color: #404BBF;
+    color:#404BBF;
 }
 
 
 .header-addres {
-    font-style: normal;
+    font-style:normal;
 }
 
 .header-addres-list {}
@@ -58,10 +58,10 @@ ol, ul {
 .header-addres-item {}
 
 .heaader-addres-link {
-    color:  #434455;
-        font-size: 16px;
-        line-height: 1.5;
-        letter-spacing: 0.02em;
+    color:#434455;
+    font-size:16px;
+    line-height:1.5;
+    letter-spacing:0.02em;
 }
 .heaader-addres-link:hover,
 .heaader-addres-link:focus {
@@ -85,16 +85,16 @@ ol, ul {
 }
 
 .hero-btn {
-    border-radius: 4px;
-    background-color: #4D5AE5;
-    color: #ffffff;
-    cursor: pointer;
-    font-family: "Roboto", sans-serif;
-    font-size: 16px;
-    font-weight: 500;
-    line-height: 1.5;
-    letter-spacing: 0.04em;
-    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
+    border-radius:4px;
+    background-color:#4D5AE5;
+    color:#ffffff;
+    cursor:pointer;
+    font-family:"Roboto", sans-serif;
+    font-size:16px;
+    font-weight:500;
+    line-height:1.5;
+    letter-spacing:0.04em;
+    box-shadow:0px 4px 4px 0px rgba(0, 0, 0, 0.15);
 }
 .hero-btn:hover,
 .hero-btn:focus{
@@ -120,11 +120,11 @@ ol, ul {
 }
 
 .features-item-text {
-    color: #434455;
-        font-size: 16px;
-        font-weight: 400;
-        line-height: 1.5;
-        letter-spacing: 0.02em;
+    color:#434455;
+    font-size:16px;
+    font-weight:400;
+    line-height:1.5;
+    letter-spacing:0.02em;
 }
 /*!------------------------------------------*/
 /*?---------------TASTE----------------------*/
@@ -134,40 +134,40 @@ ol, ul {
 
 .taste-title {
     color:#2E2F42;
-        text-align: center;
-        font-size: 36px;
-        font-weight: 700;
-        line-height: 1.11;
-        letter-spacing: 0.02em;
-        text-transform: capitalize;
+    text-align:center;
+    font-size:36px;
+    font-weight:700;
+    line-height:1.11;
+    letter-spacing:0.02em;
+    text-transform:capitalize;
 }
 
 .taste-list {}
 
 .taste-item {
-    border-radius: 0px 0px 4px 4px;
-    background: #FFF;
-    box-shadow: 0px 2px 1px 0px rgba(46, 47, 66, 0.08), 0px 1px 1px 0px rgba(46, 47, 66, 0.16), 0px 1px 6px 0px rgba(46, 47, 66, 0.08);
+    border-radius:0px 0px 4px 4px;
+    background:#FFF;
+    box-shadow:0px 2px 1px 0px rgba(46, 47, 66, 0.08), 0px 1px 1px 0px rgba(46, 47, 66, 0.16), 0px 1px 6px 0px rgba(46, 47, 66, 0.08);
 }
 
 .taste-img {}
 
 .taste-subtitle {
-    color: #2E2F42;
-        text-align: center;
-        font-size: 20px;
-        font-weight: 500;
-        line-height: 1.2;
-        letter-spacing: 0.02em;
+    color:#2E2F42;
+    text-align:center;
+    font-size:20px;
+    font-weight:500;
+    line-height:1.2;
+    letter-spacing:0.02em;
 }
 
 .taste-item-text {
     color: #434455;
-        text-align: center;
-        font-size: 16px;
-        font-weight: 400;
-        line-height: 1.5;
-        letter-spacing: 0.02em;
+    text-align:center;
+    font-size:16px;
+    font-weight:400;
+    line-height:1.5;
+    letter-spacing:0.02em;
 }
 
 /*!------------------------------------------*/
@@ -178,12 +178,12 @@ ol, ul {
 
 .made-title {
     color:  #2E2F42;
-        text-align: center;
-        font-size: 36px;
-        font-weight: 700;
-        line-height: 1.11;
-        letter-spacing: 0.02em;
-        text-transform: capitalize;
+    text-align:center;
+    font-size:36px;
+    font-weight:700;
+    line-height:1.11;
+    letter-spacing:0.02em;
+    text-transform:capitalize;
 }
 
 .made-list {}
@@ -192,18 +192,18 @@ ol, ul {
 
 .made-subtitle {
     color: #2E2F42;
-        font-size: 20px;
-        font-weight: 500;
-        line-height: 1.2;
-        letter-spacing: 0.02em;
+    font-size:20px;
+    font-weight:500;
+    line-height:1.2;
+    letter-spacing:0.02em;
 }
 
 .made-item-text {
     color: #434455;
-        font-size: 16px;
-        font-weight: 400;
-        line-height: 1.5;
-        letter-spacing: 0.02em;
+    font-size:16px;
+    font-weight:400;
+    line-height:1.5;
+    letter-spacing:0.02em;
 }
 /*!------------------------------------------*/
 
@@ -214,21 +214,21 @@ ol, ul {
 
 .footer-link {
     color: #4d5ae5;
-        font-family: "Raleway", sans-serif;
-        font-size: 18px;
-        font-style: normal;
-        font-weight: 700;
-        line-height: 1.17;
-        letter-spacing: 0.03em;
-        text-transform: uppercase;
+    font-family:"Raleway", sans-serif;
+    font-size:18px;
+    font-style:normal;
+    font-weight:700;
+    line-height:1.17;
+    letter-spacing:0.03em;
+    text-transform:uppercase;
 }
 .footer-logo-part{
-    color: #f4f4fd;
+    color:#f4f4fd;
 }
 
 .footer-text {
-    color: #F4F4FD;
-        font-size: 16px;
-        line-height: 1.5;
-        letter-spacing: 0.02em;
+    color:#F4F4FD;
+    font-size:16px;
+    line-height:1.5;
+    letter-spacing:0.02em;
 }
